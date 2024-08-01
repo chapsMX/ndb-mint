@@ -12,7 +12,7 @@ export const chainConst = "base";
 // Please ensure that you define the correct domain for your API key from the API settings page.
 // You can get one for free at https://thirdweb.com/create-api-key
 // Learn more here: https://blog.thirdweb.com/changelog/api-keys-to-access-thirdweb-infra
-export const clientIdConst = import.meta.env.VITE_TEMPLATE_CLIENT_ID || "jxvnfGkoAtf7pMNkH00P1wiBFVYnfcsRWqESk19kzvWMDEUrmqlPH4DZ0dr85oj7jNbqI-FQgP6ttwSujNh7gw";
+export const clientIdConst = import.meta.env.VITE_TEMPLATE_CLIENT_ID || "83cb898170cbdb71fd5ee1f1fa4be348";
 
 // Configure the primary color for buttons and other UI elements
 export const primaryColorConst = "blue";
